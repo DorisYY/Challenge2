@@ -32,9 +32,9 @@ while play:
 
     list_function(list)
     sum = sum_function(list)
-    print("The sum of the stored rolls is ",sum)
+    print("The sum of the stored rolls is", sum)
     average = ave_function(sum, list)
-    print("The average of the stored rolls is ",average)
+    print("The average of the stored rolls is", average)
 
     print("============")
     answer = input("Would you like to roll again? Y/N\n")
